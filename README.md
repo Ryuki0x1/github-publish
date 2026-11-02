@@ -129,19 +129,18 @@ git clone https://github.com/user/repo.git
 
 ## 🔖 Topics on this repo
 
-`opencode-skill` `github-publish` `readme-screenshots` `seo` `readme` `agent-skill` `publish-to-github` `opencode`
+opencode-skill · github-publish · readme-screenshots · seo · readme · agent-skill · publish-to-github · opencode
+
+> Topics are managed in GitHub repo settings and show up as search tags on the repo page.
 
 ---
 
 ## 📄 License
 
-[MIT](LICENSE)
+[MIT License](LICENSE)
 
 ---
 
-<details>
-<summary>🤝 Contributing</summary>
+## 🤝 Contributing
 
 PRs welcome! Open an issue to suggest improvements to the README template, topic list, or publish steps.
-
-</details>
